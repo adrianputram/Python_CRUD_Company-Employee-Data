@@ -1,3 +1,12 @@
+# ===================================
+# Data Karyawan
+# ===================================
+# Developed by. Adrian Putra Mangkuratmadja
+# JCDS - BSDAM29
+
+
+# /************************************/
+
 Data_Karyawan = [
     {
         'No_id'         : 'MK01',
@@ -245,4 +254,5 @@ while True:
     elif menuNumber == 5:
         break
     else :
+
         print('Pilihan Yang anda Masukan Salah')
