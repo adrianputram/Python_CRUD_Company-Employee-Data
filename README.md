@@ -61,7 +61,7 @@ cd employee-crud
 
 ### 3. Run the Application  
 ```bash
-python CAPSTONE_1_Data_Karyawan.py
+python Main.py
 ```
 
 ---
